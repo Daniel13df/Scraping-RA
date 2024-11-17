@@ -1,4 +1,10 @@
-pyautogyi==0.9.54
-pandas==2.2.1
-botcity-framework-web==0.8.4
-requests==2.32.3
+botcity_framework_base==0.4.3
+botcity_framework_core==1.1.4
+botcity_framework_web==0.8.4
+botcity_maestro_sdk==0.5.1
+pandas==2.2.3
+PyAutoGUI==0.9.54
+python-dotenv==1.0.1
+Requests==2.32.3
+selenium==3.141.0
+webdriver_manager==4.0.1
